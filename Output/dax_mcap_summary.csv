@@ -1,0 +1,6 @@
+Label;AnnualisedReturn;AnnualisedVolatility;SharpeRatio;HistoricalVaR95;MaxDrawdown;Alpha_Annualised;Alpha_tstat;Alpha_pvalue
+Top | Annual;7.56;20.2;0.379;1.96;-40.95;2.733;0.859;0.3906
+Bottom | Annual;2.49;17.03;0.132;1.74;-31.25;-1.537;-0.622;0.5337
+Top | Buy & Hold;8.18;22.03;0.391;2.07;-43.55;3.076;0.926;0.3543
+Bottom | Buy & Hold;7.71;18.04;0.409;1.7;-38.94;3.385;1.148;0.2511
+Benchmark;7.31;19.15;0.377;1.82;-38.93;n/a;n/a;n/a

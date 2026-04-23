@@ -1,0 +1,4 @@
+Label;AnnualisedReturn;AnnualisedVolatility;SharpeRatio;HistoricalVaR95;MaxDrawdown;Alpha_Annualised;Alpha_tstat;Alpha_pvalue
+Top;7.3;18.9;0.369;1.72;-41.32;1.05;0.388;0.6977
+Bottom;2.5;16.48;0.12;1.59;-32.34;-2.107;-0.978;0.3282
+Benchmark;7.31;19.15;0.377;1.82;-38.93;n/a;n/a;n/a
